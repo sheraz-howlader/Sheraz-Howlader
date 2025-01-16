@@ -65,4 +65,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheraz-howlader&show_icons=true&locale=en&layout=compact" alt="sheraz-howlader" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheraz-howlader&show_icons=true&locale=en" alt="sheraz-howlader" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheraz-howlader" alt="sheraz-howlader" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheraz-howlader&" alt="sheraz-howlader" /></p>
