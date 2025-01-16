@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/sheraz_howlader" target="blank"><img src="https://img.shields.io/twitter/follow/sheraz_howlader?logo=twitter&style=for-the-badge" alt="sheraz_howlader" /></a> </p>
 
-- 🔭 I’m currently working on [GeniusClass](geniusclass.co.uk)
+- 🔭 I’m currently working on [GeniusClass](https://geniusclass.co.uk)
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [sherazdev.com.bd](sherazdev.com.bd)
+- 👨‍💻 All of my projects are available at [sherazdev.com.bd](https://sherazdev.com.bd)
 
-- 📝 I regularly write articles on [sherazdev.com.bd](sherazdev.com.bd)
+- 📝 I regularly write articles on [sherazdev.com.bd](https://sherazdev.com.bd)
 
 - 💬 Ask me about **PHP, Laravel, JavasSript and Vue.js**
 
 - 📫 How to reach me **admin@sherazdev.com.bd**
 
-- 📄 Know about my experiences [sherazdev.com.bd/sheraz-howlader.pdf](sherazdev.com.bd/sheraz-howlader.pdf)
+- 📄 Know about my experiences [sherazdev.com.bd/sheraz-howlader.pdf](https://sherazdev.com.bd/sheraz-howlader.pdf)
 
 - ⚡ Fun fact **I am little bit crazy when i am learning something.**
 
