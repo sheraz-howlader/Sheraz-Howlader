@@ -50,7 +50,7 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheraz-howlader" alt="sheraz-howlader" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheraz-howlader&theme=onedark" alt="sheraz-howlader" /></a>
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheraz-howlader&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
